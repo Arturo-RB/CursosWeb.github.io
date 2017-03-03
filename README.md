@@ -1,3 +1,3 @@
 # GH Pages para CursosWeb
 
-#[Try me](http://arturo-rb.github.io/cursosweb.github.io "CursosWeb").
+#[Try me](http://Arturo-RB.github.io/cursosweb.github.io "CursosWeb").
